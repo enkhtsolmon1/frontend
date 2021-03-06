@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fcfbb8ec.chunk.css",
+    "main.js": "/static/js/main.c5804c52.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.cb313104.js",
+    "static/js/2.30b534a7.chunk.js": "/static/js/2.30b534a7.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.30b534a7.chunk.js.LICENSE.txt": "/static/js/2.30b534a7.chunk.js.LICENSE.txt",
+    "static/media/clouduni.ebbfeb95.png": "/static/media/clouduni.ebbfeb95.png",
+    "static/media/khu.d6f18fcb.jpg": "/static/media/khu.d6f18fcb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb313104.js",
+    "static/js/2.30b534a7.chunk.js",
+    "static/css/main.fcfbb8ec.chunk.css",
+    "static/js/main.c5804c52.chunk.js"
+  ]
+}
